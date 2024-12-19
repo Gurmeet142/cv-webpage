@@ -1,6 +1,7 @@
 import streamlit as st
 
 
+
 st.markdown("<style> .stAppHeader {display:none;} ul {list-style-type: none; } </style>", unsafe_allow_html=True)
 
 from pathlib import Path
