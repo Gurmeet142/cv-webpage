@@ -58,3 +58,4 @@ st.header("Interessen und Hobbys",anchor=False, divider="blue")
 st.write("🖥️ Computerspiele spielen")
 st.write(" 🙂 Neue Erfahrungen erleben")
 st.write(" 😀 Etwas neues über Computertechnik lernen")
+
