@@ -11,7 +11,7 @@ def get_file_content_as_bytes(file_path):
         return file.read()
 
 # Pfad zur PDF-Datei
-file_path = 'Lebenslauf - konvertiert.pdf'
+file_path = 'LebensLauf2.pdf'
 
 # Lese den Inhalt der PDF-Datei als Bytes
 file_bytes = get_file_content_as_bytes(file_path)
