@@ -49,8 +49,8 @@ st.write(" 💼 Berufspraktische Tage 2: Bei Namaste Store von 18. bis 22. Nov. 
 
 st.header("Zusätzliche Qualifikationen", anchor=False, divider="blue")
 st.write(" 🤓 Schnelle Auffassungsgabe für neue Softwareanwendung und Technologien")
-st.write(" 😲 Große Interesse an der kontinuierlichen Weiterentwicklung im IT-Bereich")
-st.write(" 🥇 Teamfähigkeit und Kommunikationsstärke bei gemeinsamen Coding-Projekten")
+st.write(" 😲 Großes Interesse an der kontinuierlichen Weiterentwicklung im IT-Bereich")
+st.write(" 🥇 Teamfähigkeit und Kommunikationsstärke")
 st.write(" 🤵‍♂️ Höfflicheit entgegen Kunden und Mitarbeiter")
 st.write(" 🎯 Auf die Genauigkeit achten")
 
