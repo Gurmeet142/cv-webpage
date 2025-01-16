@@ -51,7 +51,7 @@ st.header("Zusätzliche Qualifikationen", anchor=False, divider="blue")
 st.write(" 🤓 Schnelle Auffassungsgabe für neue Softwareanwendung und Technologien")
 st.write(" 😲 Große Interesse an der kontinuierlichen Weiterentwicklung im IT-Bereich")
 st.write(" 🥇 Teamfähigkeit und Kommunikationsstärke bei gemeinsamen Coding-Projekten")
-st.write(" 🤵‍♂️ Höfflickeit entgegen Kunden und Mitarbeiter")
+st.write(" 🤵‍♂️ Höfflicheit entgegen Kunden und Mitarbeiter")
 st.write(" 🎯 Auf die Genauigkeit achten")
 
 st.header("Interessen und Hobbys",anchor=False, divider="blue")
