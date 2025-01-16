@@ -25,18 +25,18 @@ right.markdown("""
                 <em>Ich interessiere mich für KI und wie schnell es sich weiterentwickelt.</em>
            """, unsafe_allow_html=True)
 
-right.download_button(label="📄 Download.Lebenslauf",
+right.download_button(label="📄 Download Lebenslauf",
         data=file_bytes,
         file_name=file_path,
         mime='application/pdf')
 
-st.write("📩", "Gamkhilg@gmail.com")
+st.write("📩", "gamkhilg@gmail.com")
 
 
 st.header("IT-Kompetenzen", anchor=False, divider="blue")
 
 st.write("""
-         - 💻 Webentwicklung: Fundierte Grundkenntnisse in HTML, CSS und Streamlit (Fullstack-Framework) 
+         - 💻 Webentwicklung: Fundierte Grundkenntnisse in HTML, CSS und Streamlit
          - 📱 Programmierung: Praktische Erfahrung in Python, Entwicklung kleiner Anwendungen und Skripte
          - 🏢 Office-Suite: Versierter Umgang mit Microsoft Word, und PowerPoint
         - 📽️ Eigene Projekte: Konzeption und Umsetzung verschiedener Projekte inklusive Hosting           
@@ -57,4 +57,4 @@ st.write(" 🎯 Auf die Genauigkeit achten")
 st.header("Interessen und Hobbys",anchor=False, divider="blue")
 st.write("🖥️ Computerspiele spielen")
 st.write(" 🙂 Neue Erfahrungen erleben")
-st.write(" 😀 Etwas neues über das Computertechnik lernen")
+st.write(" 😀 Etwas neues über Computertechnik lernen")
