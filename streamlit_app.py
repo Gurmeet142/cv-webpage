@@ -18,7 +18,7 @@ file_bytes = get_file_content_as_bytes(file_path)
 
 left,right = st.columns(2)
 
-left.image("profile-pic.png", width=250)
+left.image("Dad.png", width=250)
 
 right.markdown("""
                <h3>Gurmeet GAMKHIL </h3>
